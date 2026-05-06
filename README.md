@@ -1,4 +1,4 @@
-# Bioactivity Prediction Pipeline — Technical Documentation v2.0
+# Bioactivity Prediction Pipeline — Technical Documentation
 
 **Domain:** Computational Drug Discovery / Cheminformatics  
 **Task:** Binary classification — predicting whether a compound is *active* or *inactive* against a biological target  
